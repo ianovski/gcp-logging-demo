@@ -4,6 +4,7 @@
   "description": "Demo application for writing to GCP Cloud Monitoring and Logging",
   "main": "index.js",
   "scripts": {
+	"start": "sudo node app.js"
   },
   "author": "",
   "license": "ISC",
